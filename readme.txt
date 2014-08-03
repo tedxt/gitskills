@@ -1,2 +1,2 @@
-git crea a branch is quick and simple.
+git create a branch is quick and simple.
 
